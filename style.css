@@ -1,0 +1,351 @@
+*{
+box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+
+.container{
+display: grid;
+
+
+}
+
+img{
+position: absolute;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+margin-left: 1%;
+margin-top: 10px;
+border: 2px solid black;
+
+}
+
+h1{
+color: white;
+position: absolute;
+margin-top: 1%;
+font-size: 12px;
+margin-left: 4.5%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+}
+
+h2{
+
+    color: white;
+    position: absolute;
+    margin-top: 2%;
+    font-size: 9px;
+    margin-left: 4.5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    }
+
+#job{
+
+    color:white;
+    position: absolute;
+    margin-top: 4%;
+    font-size: 15px;
+    margin-left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+width: 575px;    
+}
+
+#job2{
+
+    color:white;
+    position: absolute;
+    margin-top: 8%;
+    font-size: 10px;
+    margin-left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+width: 500px;    
+
+
+}
+
+
+#item1{
+
+width: 590px;
+height: 300px;
+background-color: #733FC8;
+grid-row-start: 1;
+grid-column-end: 3;
+border: 2px solid black;
+}
+
+#item2{
+    width: 250px;
+    height: 300px;
+    background-color: grey;
+grid-column-start: 3;
+grid-column-end: 6;
+border:3px solid black;
+margin-left: 32px;
+
+}
+
+#jonathan{
+position: absolute;
+color: white;
+font-size: 10px;
+margin-top: 18px;
+margin-left: 68px;
+}
+
+#verified{
+
+    position: absolute;
+    color: white;
+    font-size: 9px;
+    margin-top: 34px;
+    margin-left: 65px;
+
+
+
+}
+
+
+#team{
+
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-top: 65px;
+    margin-left: 10px;
+width: 240px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+
+}
+
+#team2{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    margin-top: 160px;
+    margin-left: 10px;
+width: 240px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+
+
+
+}
+
+
+
+#item3{
+    width: 150px;
+    height: 200px;
+    background-color: white;
+border: 2px solid black;
+grid-row-start: 2;
+grid-column-end: 3;
+margin-top: 25px;
+height: 300px;
+width: 300px;
+}
+
+img{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 1%;
+    margin-top: 20px;
+    border: 2px solid black;
+
+
+}
+
+#harmon{
+    position: absolute;
+   font-size: 13px;
+ color: black;  
+    margin-left: 5%;
+    margin-top: 20px;
+  
+
+
+}
+
+#verified2{
+    position: absolute;
+    font-size: 10px;
+  color: black;  
+     margin-left: 5%;
+     margin-top: 40px;
+   
+ 
+
+
+}
+
+#experience{
+    position: absolute;
+    font-size: 20px;
+  color: black;  
+     margin-left: 1%;
+     margin-top: 80px;
+width: 280px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#experience2{
+    position: absolute;
+    font-size: 15px;
+  color: black;  
+     margin-left: 1%;
+     margin-top: 170px;
+width: 270px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+
+#item4{
+    width: 570px;
+    height: 300px;
+    background-color: rgba(14, 14, 28, 0.819);
+border: 2px solid black;
+grid-row-start: 2;
+grid-column-end: 4;
+margin-top: 4%;
+margin-left: -50%;
+}
+
+#patrick{
+position: absolute;
+margin-top: 1%;
+margin-left: 70px;
+color: white;
+font-size: 13px;
+}
+
+#graduate4{
+position: absolute;
+margin-top: 2.3%;
+margin-left: 70px;
+color: white;
+font-size: 10px;
+
+}
+
+#awesome{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 25px;
+    color: white;
+    font-size: 20px;
+width: 550px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#awesome2{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 25px;
+    color: white;
+    font-size: 15px;
+width: 500px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+img{
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 1%;
+    margin-top: 15px;
+    border: 2px solid black;
+
+
+
+}
+
+#item5{
+   width: 450px;
+height: 650px;
+background-color: white;
+border: 2px solid black;
+grid-column: 4;
+grid-column-end: 6;
+margin-left: -45%;
+margin-top: -69%;
+box-shadow: 1px 1px 1px black;
+}
+
+#kira{
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 1%;
+    margin-top: 39px;
+    border: 2px solid black;
+
+}
+
+#kirakira{
+position: absolute;
+color: black;
+
+font-size: 11px;
+margin-left: 5%;
+margin-top: 39px;
+
+
+
+}
+
+#kirawhittle{
+    position: absolute;
+    color: black;
+    
+    font-size: 11px;
+    margin-left: 5%;
+    margin-top: 55px;
+    
+
+
+}
+
+#changelife{
+    position: absolute;
+    color: black;
+    
+    font-size: 30px;
+    margin-left: 1%;
+    margin-top: 95px;
+width: 220px;
+
+
+}
+
+#changelife2{
+    position: absolute;
+    color: black;
+    
+    font-size: 20px;
+    margin-left: 1%;
+    margin-top: 280px;
+width: 390px;
+
+
+}
